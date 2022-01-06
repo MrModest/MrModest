@@ -3,6 +3,7 @@
 - 🛠 I'm an engineer at Yandex
 - 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
 
+## 🤝 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrmodest/)
 [![babaevkamil@gmail.com](https://img.shields.io/badge/babaevkamil%40gmail.com%20-%233594d4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:babaevkamil@gmail.com)
 [![MrModest](https://img.shields.io/badge/MrModest%20-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MrModest)
