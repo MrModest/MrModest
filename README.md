@@ -3,7 +3,7 @@
 - 🛠 I'm an engineer at Yandex
 - 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
 
-My CV: [Kamil Babaev.pdf](https://raw.githubusercontent.com/MrModest/MrModest/master/CV_Kamil_Babaev_OP.pdf)
+My CV: [Kamil Babaev.pdf](https://raw.githubusercontent.com/MrModest/MrModest/master/CV_Kamil_Babaev.pdf)
 
 ## 🤝 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrmodest/)
