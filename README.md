@@ -2,8 +2,21 @@
 - 🇷🇺 I live in Moscow, Russia
 - 🛠 I'm an engineer at Yandex
 - 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
+- 🇩🇪 Looking for relocation to Germany
 
 My CV: [Kamil Babaev.pdf](https://raw.githubusercontent.com/MrModest/MrModest/master/CV_Kamil_Babaev.pdf)
+
+## Skills
+
+- Strong
+  - Java / Kotlin / Spring Boot / Hibernate
+  - C# / .Net / ASP.Net Core / Entity Framework
+- Average
+  - JavaScript / TypeScript / React / Redux
+  - SQL / NoSQL
+- Small
+  - GitHub Actions
+  - Python
 
 ## 🤝 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrmodest/)
