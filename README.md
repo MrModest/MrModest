@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kamil
-- 🇷🇺 I live in Berlin, Germany
+- 🇩🇪 I live in Berlin, Germany
 - 🛠 I'm an engineer at Trade Republic
 - 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
 
