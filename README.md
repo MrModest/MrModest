@@ -3,7 +3,7 @@
 - 🛠 I'm an engineer at Trade Republic
 - 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
 
-My CV: [Kamil Babaev.pdf](https://raw.githubusercontent.com/MrModest/MrModest/master/CV_Kamil_Babaev.pdf)
+My CV: https://mrmodest.github.io/cv-page/
 
 ## Skills
 
