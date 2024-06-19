@@ -5,6 +5,8 @@
 
 My CV: https://mrmodest.github.io/cv-page/ (just `Ctrl/Cmd + P` the page 😉)
 
+🟩 If you're looking for green squares, you better check my work profile -> [@kamilmodest](https://github.com/kamilmodest) 😉
+
 ## Skills
 
 - Strong
