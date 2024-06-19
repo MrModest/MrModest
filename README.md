@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kamil
 - 🇩🇪 I live in Berlin, Germany
-- 🛠 I'm an engineer at Trade Republic
+- 🛠 I'm an engineer at Delivery Hero
 - 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
 
 My CV: https://mrmodest.github.io/cv-page/ (just `Ctrl/Cmd + P` the page 😉)
