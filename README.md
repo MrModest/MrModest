@@ -10,11 +10,13 @@ My CV: https://mrmodest.github.io/cv-page/ (just `Ctrl/Cmd + P` the page 😉)
 ## Skills
 
 - Strong
-  - Java / Kotlin / Spring Boot / Hibernate
-  - C# / .Net / ASP.Net Core / Entity Framework
+  - Kotlin / Java / Spring Boot
+  - C# / .Net / ASP.Net Core
 - Average
-  - JavaScript / TypeScript / React / Redux
+  - JavaScript / TypeScript / React
   - SQL / NoSQL
+  - LGTM (Grafana Stack)
+  - Ansible
 - Small
   - GitHub Actions
   - Python
@@ -23,17 +25,3 @@ My CV: https://mrmodest.github.io/cv-page/ (just `Ctrl/Cmd + P` the page 😉)
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrmodest/)
 [![babaevkamil@gmail.com](https://img.shields.io/badge/babaevkamil%40gmail.com%20-%233594d4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:babaevkamil@gmail.com)
 [![MrModest](https://img.shields.io/badge/MrModest%20-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MrModest)
-<!--
-**MrModest/MrModest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
