@@ -1,27 +1,26 @@
 ## Hi there 👋 I'm Kamil
-- 🇩🇪 I live in Berlin, Germany
-- 🛠 I'm an engineer at Delivery Hero
-- 💻 Most of the time I'm writing on Java, Kotlin and C#. Sometimes on JavaScript.
 
-My CV: https://mrmodest.github.io/cv-page/ (just `Ctrl/Cmd + P` the page 😉)
+- 🇩🇪 Based in Berlin, Germany
+- 🛠 Building wallets and payments at Delivery Hero
+- 💻 Mostly Kotlin and Java — making systems reliable, faster, and easier to debug
 
+💼 My CV: https://mrmodest.github.io/cv-page/ (just `Ctrl/Cmd + P` the page 😉) <br />
 🟩 If you're looking for green squares, you better check my work profile -> [@kamilmodest](https://github.com/kamilmodest) 😉
 
-## Skills
+## Tech stack
 
-- Strong
-  - Kotlin / Java / Spring Boot
-  - C# / .Net / ASP.Net Core
-- Average
-  - JavaScript / TypeScript / React
-  - SQL / NoSQL
-  - LGTM (Grafana Stack)
-  - Ansible
-- Small
-  - GitHub Actions
-  - Python
+- **Backend:** Kotlin, Java, Spring Boot, Kotlin Coroutines
+- **Data & messaging:** PostgreSQL, MongoDB, RabbitMQ
+- **Platform:** AWS, Docker, Kubernetes, GitHub Actions
+- **Observability:** Grafana, Prometheus, Loki, OpenTelemetry
+- **Also work with:** TypeScript, React, Ansible
+
+## Outside work
+
+I tinker with my [homeserver](https://github.com/MrModest/homeserver): 15+ self-hosted apps, Ansible, Docker, ZFS, and a few Grafana dashboards to keep an eye on it all.
 
 ## 🤝 Connect with me
+
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrmodest/)
 [![babaevkamil@gmail.com](https://img.shields.io/badge/babaevkamil%40gmail.com%20-%233594d4.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:babaevkamil@gmail.com)
 [![MrModest](https://img.shields.io/badge/MrModest%20-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MrModest)
